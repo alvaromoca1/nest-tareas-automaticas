@@ -22,6 +22,8 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Sobre el proyecto
+Las tareas automaticas son taeeas que se ejecutan sin la intervencion del usuario,son utilizados normalmente, para mover archivos, para conectarse a servicios especificos, son bastantes versatiles.
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
